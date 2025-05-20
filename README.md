@@ -4,6 +4,10 @@ A powerful browser extension for downloading manga chapters from weebcentral.com
 
 ![WeebCentral Downloader](icons/icon128.png)
 
+# Script
+
+If You Don't want extension I have also created a script for it which is very fast. https://github.com/Yui007/weebcentral_downloader
+
 ## Features
 
 - **Direct Image Download**: Download all images from a manga chapter with a single click
